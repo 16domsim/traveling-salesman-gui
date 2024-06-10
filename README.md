@@ -4,7 +4,7 @@ A visual tool for exploring the Traveling Salesman Problem, developed in 2019 as
 
 ## Motivation
 
-Understanding theoretical algorithms can be challenging for beginners, especially when they are abstract and hard to visualize. To address this, I developed the Traveling Salesman Guy, a tool that allows users to create their own graphs and observe the TSP algorithm in action step by step. This hands-on approach aims to demystify the algorithm and make it more accessible and engaging.
+Understanding theoretical algorithms can be challenging for beginners, especially when they are abstract and hard to visualize. To address this, I developed the Traveling Salesman GUI, a tool that allows users to create their own graphs and observe the TSP algorithm in action step by step. This hands-on approach aims to demystify the algorithm and make it more accessible and engaging.
 
 ## Features
 
