@@ -1,6 +1,6 @@
 # Traveling Salesman GUI
 
-A visual tool for exploring the Traveling Salesman Problem, developed in 2019 as part of . I created the graphics from scratch without using any external packages, relying solely on Swift for the design of the JFrame. The comments in the code are in German.
+A visual tool for exploring the Traveling Salesman Problem, developed in 2019 as part of a school project. I created the graphics from scratch without using any external packages, relying solely on Java Swing for the design of the JFrame. The comments in the code are in German.
 
 ## Motivation
 
